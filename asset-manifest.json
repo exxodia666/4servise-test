@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/4servise-test/static/css/main.fdf824c3.css",
+    "main.js": "/4servise-test/static/js/main.0574a3d8.js",
+    "static/js/592.f894fa80.chunk.js": "/4servise-test/static/js/592.f894fa80.chunk.js",
+    "static/media/punchClub.png": "/4servise-test/static/media/punchClub.529c92832427cfe850bf.png",
+    "static/media/logo.svg": "/4servise-test/static/media/logo.1a1971ae2e9b221cda7f8aa4b8e888e4.svg",
+    "index.html": "/4servise-test/index.html",
+    "main.fdf824c3.css.map": "/4servise-test/static/css/main.fdf824c3.css.map",
+    "main.0574a3d8.js.map": "/4servise-test/static/js/main.0574a3d8.js.map",
+    "592.f894fa80.chunk.js.map": "/4servise-test/static/js/592.f894fa80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdf824c3.css",
+    "static/js/main.0574a3d8.js"
+  ]
+}
